@@ -1,6 +1,4 @@
-## This repo is looking for maintainers! Please reach out if interested.
 
---------
 
 
 High performance Stratum poolserver in Node.js. One instance of this software can startup and manage multiple coin
